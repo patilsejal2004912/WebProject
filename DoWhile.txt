@@ -1,0 +1,22 @@
+public class DoWhile {
+    public static void main(String[] args){
+        int i=0;
+        do{
+            System.out.println("Hello Java");
+            i++;
+        }while (i<=5);
+    }
+}
+
+
+Output :
+
+
+Hello Java
+Hello Java
+Hello Java
+Hello Java
+Hello Java
+Hello Java
+
+Process finished with exit code 0
